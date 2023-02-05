@@ -1,15 +1,12 @@
 ## Olá! Eu sou Henry Modesto  👋
-
 - 💻 Futuro front-end
 - 📚 Estudando Typescript, CSSInline e ReactJs
-- 👦🏻 Contate-me no email: modestohenry48@gmail.com
 - 👀 Visite meu portfólio: etec199-2021-henry.atwebpages.com
-- 📝 Cursando o 3 ano do ensino medio na Etec Tiradentes
-- ⌨ Atualmente cursando Desenvolvimento de Sistemas
 
+## Estátisticas
 <div>
-  <img  height="190em" src="https://github-readme-stats.vercel.app/api?username=HenryModesto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryModesto&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryModesto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryModesto&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
