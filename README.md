@@ -25,7 +25,7 @@
     <a href = "mailto: modestohenry48@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.instagram.com/devparadev/">
+    <a href = "https://www.instagram.com/_henry_modesto/">
       <img width="25" src="instagram.png">
     </a>
 </div>
