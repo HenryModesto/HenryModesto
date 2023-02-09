@@ -1,6 +1,6 @@
 ## Falaa putiferoo(a), Eu sou Henry Modesto  👋
 - 💻 Futuro front-end
-- 📚 Estudando Typescript, CSSInline e ReactJs
+- 📚 Estudando Typescript, API, CSSInline e ReactJs
 - 👀 Visite meu portfólio: etec199-2021-henry.atwebpages.com
 
 ## Estátisticas
