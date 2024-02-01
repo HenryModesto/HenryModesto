@@ -1,24 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25067d&height=120&section=footer%22"/>
-&nbsp;&nbsp;&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B0AFA&height=120&section=header"/>
 
-<h1>Henry Modesto</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6B0AFA&size=35&center=true&vCenter=true&width=1000&lines=Olá+Fera,+Meu+nome+é+Henry+Modesto;Seja+Bem+Vindo!;)](https://git.io/typing-svg)
 
-- 💻 Desenvolvedor FullStack
-- ✅ Formado em DS na ETEC CT
-- 🎓 Cursando na Faculdade Impacta
+&nbsp;
 
 <p align="left">Aos 18 anos, apaixonado por tecnologia, atualmente foco meus estudos em Sistemas de Informação na Faculdade Impacta. Com 4 anos de experiência prática, aprofundei-me na programação e desenvolvimento de software. </p>&nbsp;
 
-## Estátisticas
-<div>
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=HenryModesto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryModesto&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
+#### - 💻 Desenvolvedor FullStack
+#### - ✅ Formado em DS na ETEC CT
+#### - 🎓 Cursando SI na Faculdade Impacta
 
-
+&nbsp;
  
-## Minhas Habilidades
+## Minhas Habilidades :
 
 #### Linguagens Principais :
 
@@ -63,7 +57,4 @@
 <a href="https://www.linkedin.com/in/henry-modesto-90b66b265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
-
-
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B0AFA&height=120&section=footer"/>
