@@ -3,7 +3,18 @@
 
 <h1>Henry Modesto</h1>
 
+- 💻 Desenvolvedor FullStack
+- ✅ Formado em DS na ETEC CT
+- 🎓 Cursando na Faculdade Impacta
+
 <p align="left">Aos 18 anos, apaixonado por tecnologia, atualmente foco meus estudos em Sistemas de Informação na Faculdade Impacta. Com 4 anos de experiência prática, aprofundei-me na programação e desenvolvimento de software. </p>&nbsp;
+
+## Estátisticas
+<div>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=HenryModesto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryModesto&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
 
 
  
