@@ -1,7 +1,7 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/nicolasokumabe/nicolasokumabe/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">With care, I'm here to make sure every detail is meticulously validated, contributing to our customers' success and satisfaction. ❤️🔍 <br><br> I am a <strong>Quality Assurance (QA) analyst</strong>, dedicated to ensuring product and service excellence through <strong>meticulous testing and rigorous quality</strong> control processes. </p>&nbsp;
+<p align="center">Aos 18 anos, apaixonado por tecnologia, atualmente foco meus estudos em Sistemas de Informação na Faculdade Impacta. Com 4 anos de experiência prática, aprofundei-me na programação e desenvolvimento de software. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=nicolasokumabe&theme=radical&mode=weekly" />
