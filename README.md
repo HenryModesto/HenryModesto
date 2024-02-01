@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer%22"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25067d&height=120&section=footer%22"/>
 &nbsp;&nbsp;&nbsp;
 
-<h1>Henry Modesto</h1>
+<h1>Henryy Modesto</h1>
 
-<p align="center">Aos 18 anos, apaixonado por tecnologia, atualmente foco meus estudos em Sistemas de Informação na Faculdade Impacta. Com 4 anos de experiência prática, aprofundei-me na programação e desenvolvimento de software. </p>&nbsp;
+<p align="left">Aos 18 anos, apaixonado por tecnologia, atualmente foco meus estudos em Sistemas de Informação na Faculdade Impacta. Com 4 anos de experiência prática, aprofundei-me na programação e desenvolvimento de software. </p>&nbsp;
 
 
  &nbsp;
@@ -37,10 +37,6 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 
-#### Databases:
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
@@ -62,4 +58,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer%22"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25067d&height=120&section=footer%22"/>
