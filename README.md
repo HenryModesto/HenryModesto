@@ -5,10 +5,7 @@
 
 <p align="left">Aos 18 anos, apaixonado por tecnologia, atualmente foco meus estudos em Sistemas de Informação na Faculdade Impacta. Com 4 anos de experiência prática, aprofundei-me na programação e desenvolvimento de software. </p>&nbsp;
 
-
- &nbsp;
  
-
 ## Minhas Habilidades
 
 #### Linguagens Principais :
@@ -26,7 +23,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
 #### Estudando as linguagens:
 
