@@ -4,7 +4,7 @@
 
 &nbsp;
 
-<p align="left">Aos 18 anos, apaixonado por tecnologia, atualmente foco meus estudos em Sistemas de Informação na Faculdade Impacta. Com 4 anos de experiência prática, aprofundei-me na programação e desenvolvimento de software. </p>&nbsp;
+<p align="left">Aos 19 anos, apaixonado por tecnologia, atualmente foco meus estudos em Sistemas de Informação na Faculdade Impacta. Com 4 anos de experiência prática, aprofundei-me na programação e desenvolvimento de software. </p>&nbsp;
 
 #### - 💻 Desenvolvedor FullStack
 #### - ✅ Formado em DS na ETEC CT
